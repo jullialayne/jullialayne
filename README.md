@@ -30,4 +30,6 @@
   <a href="https://www.linkedin.com/in/jullialayne1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/jullialayne" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/956648064330915850/1019265577052807300/download20220902121129.png?width=540&height=540"> 
+  
+  ![Snake animation](https://github.com/jullialayne/jullialayne/blob/output/github-contribution-grid-snake.svg)
 </div>
