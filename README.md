@@ -29,6 +29,5 @@
   <a href = "mailto:jullialayne8243@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jullialayne1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/jullialayne" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> 
-   <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=k9HsWBJS7x"> 
+  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/956648064330915850/1019265577052807300/download20220902121129.png?width=540&height=540"> 
 </div>
