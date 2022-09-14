@@ -13,10 +13,10 @@
   
 <div align="center">
   <a href="https://github.com/jullialayne/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jullialayne&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullialayne&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/jullialayne/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jullialayne&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullialayne&repo=convoychat" />
 </a>
 </div>
 
