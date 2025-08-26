@@ -1,12 +1,12 @@
 # Olá, eu sou a Jullia! 👋
 
-Sou **Desenvolvedora de Sistemas**, com foco em **Backend (Java)** e em constante aprendizado para me tornar cada vez mais completa na área de desenvolvimento.  
-Atualmente, estou explorando **ReactJS** para ampliar minhas habilidades no **Frontend** e construir aplicações mais completas.
+Sou **Desenvolvedora de Sistemas**, com foco em **Backend (Java)** e em constante evolução para me tornar cada vez mais completa na área de desenvolvimento.  
+Atualmente, estudo **ReactJS** para criar aplicações mais completas e com interfaces modernas.
 
 ## 🚀 O que estou fazendo agora
 - 🔭 Trabalho com **Java** e **Spring Boot** para desenvolvimento backend.
 - 🌱 Estudando **ReactJS** e boas práticas de **arquitetura de sistemas**.
-- ✍️ Escrevendo artigos e documentando meu aprendizado.
+- ✍️ Escrevendo artigos para compartilhar aprendizado.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java (principal), JavaScript (ReactJS)  
@@ -19,8 +19,5 @@ Atualmente, estou explorando **ReactJS** para ampliar minhas habilidades no **Fr
 - [**Dashboard em ReactJS**](link_para_repo) – Interface dinâmica consumindo API REST.  
 - [**Introdução ao ReactJS**](https://github.com/jullialayne/Introducao-ReactJS) – primeiros passos com ReactJS.  
 
-## 📫 Contato
-- **LinkedIn:** [Seu perfil](https://www.linkedin.com/in/...)  
-- **Email:** seuemail@exemplo.com  
-
-> _"Construindo hoje o conhecimento que preciso para os desafios de amanhã."_
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jullia%20Layne-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jullialayne/)
