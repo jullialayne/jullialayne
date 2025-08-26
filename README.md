@@ -14,10 +14,5 @@ Atualmente, estudo **ReactJS** para criar aplicações mais completas e com inte
 - **Ferramentas:** Git, Docker, Postman, IntelliJ IDEA, VS Code, SQL  
 - **Outros conhecimentos:** Python e Ruby (projetos de estudo e aprendizado)
 
-## 📌 Projetos em Destaque
-- [**API de Gerenciamento de Usuários (Java/Spring Boot)**](link_para_repo) – API REST com autenticação e CRUD completo.  
-- [**Dashboard em ReactJS**](link_para_repo) – Interface dinâmica consumindo API REST.  
-- [**Introdução ao ReactJS**](https://github.com/jullialayne/Introducao-ReactJS) – primeiros passos com ReactJS.  
-
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jullia%20Layne-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jullialayne/)
