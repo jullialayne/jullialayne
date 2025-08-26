@@ -1,33 +1,26 @@
-### Olá! Eu sou a Jullia 👋
+# Olá, eu sou a Jullia! 👋
 
-- 🔭 Atualmente estou trabalhando como analista de desenvolvimento Java na Autbank Projetos e Consultoria Ltda.
-- 🌱 Atualmente estou aprendendo ReactJS pela plataforma da Digital Innovation One.
-- 📫 Contate-me no email: jullialayne8243@gmail.com
-- 😄 Pronomes: ela/dela
+Sou **Desenvolvedora de Sistemas**, com foco em **Backend (Java)** e em constante aprendizado para me tornar cada vez mais completa na área de desenvolvimento.  
+Atualmente, estou explorando **ReactJS** para ampliar minhas habilidades no **Frontend** e construir aplicações mais completas.
 
-<div align="center">
-  <a href="https://github.com/jullialayne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jullialayne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullialayne&layout=compact&theme=dark"/>
-</div>
+## 🚀 O que estou fazendo agora
+- 🔭 Trabalho com **Java** e **Spring Boot** para desenvolvimento backend.
+- 🌱 Estudando **ReactJS** e boas práticas de **arquitetura de sistemas**.
+- ✍️ Escrevendo artigos e documentando meu aprendizado.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ju-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" >
-  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ju-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" >
-  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ju-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
-  <img align="center" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java (principal), JavaScript (ReactJS)  
+- **Frameworks:** Spring Boot, ReactJS  
+- **Ferramentas:** Git, Docker, Postman, IntelliJ IDEA, VS Code, SQL  
+- **Outros conhecimentos:** Python e Ruby (projetos de estudo e aprendizado)
 
-##
+## 📌 Projetos em Destaque
+- [**API de Gerenciamento de Usuários (Java/Spring Boot)**](link_para_repo) – API REST com autenticação e CRUD completo.  
+- [**Dashboard em ReactJS**](link_para_repo) – Interface dinâmica consumindo API REST.  
+- [**Introdução ao ReactJS**](https://github.com/jullialayne/Introducao-ReactJS) – primeiros passos com ReactJS.  
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCQccLgOCkfy9LoSwbW7U1KQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jullialayne8243@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jullialayne1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/jullialayne" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 📫 Contato
+- **LinkedIn:** [Seu perfil](https://www.linkedin.com/in/...)  
+- **Email:** seuemail@exemplo.com  
+
+> _"Construindo hoje o conhecimento que preciso para os desafios de amanhã."_
